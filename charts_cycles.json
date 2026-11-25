@@ -1,0 +1,32 @@
+{
+  "provider": "Jeppesen",
+  "data_type": "Digital Terminal Charts",
+  "cycles": [
+    { "cycle": "2601", "issue_date": "2026-01-02" },
+    { "cycle": "2602", "issue_date": "2026-01-16" },
+    { "cycle": "2603", "issue_date": "2026-01-30" },
+    { "cycle": "2604", "issue_date": "2026-02-13" },
+    { "cycle": "2605", "issue_date": "2026-02-27" },
+    { "cycle": "2606", "issue_date": "2026-03-13" },
+    { "cycle": "2607", "issue_date": "2026-03-27" },
+    { "cycle": "2608", "issue_date": "2026-04-10" },
+    { "cycle": "2609", "issue_date": "2026-04-24" },
+    { "cycle": "2610", "issue_date": "2026-05-08" },
+    { "cycle": "2611", "issue_date": "2026-05-22" },
+    { "cycle": "2612", "issue_date": "2026-06-05" },
+    { "cycle": "2613", "issue_date": "2026-06-19" },
+    { "cycle": "2614", "issue_date": "2026-07-03" },
+    { "cycle": "2615", "issue_date": "2026-07-17" },
+    { "cycle": "2616", "issue_date": "2026-07-31" },
+    { "cycle": "2617", "issue_date": "2026-08-14" },
+    { "cycle": "2618", "issue_date": "2026-08-28" },
+    { "cycle": "2619", "issue_date": "2026-09-11" },
+    { "cycle": "2620", "issue_date": "2026-09-25" },
+    { "cycle": "2621", "issue_date": "2026-10-09" },
+    { "cycle": "2622", "issue_date": "2026-10-23" },
+    { "cycle": "2623", "issue_date": "2026-11-06" },
+    { "cycle": "2624", "issue_date": "2026-11-20" },
+    { "cycle": "2625", "issue_date": "2026-12-04" },
+    { "cycle": "2626", "issue_date": "2026-12-18" }
+  ]
+}
